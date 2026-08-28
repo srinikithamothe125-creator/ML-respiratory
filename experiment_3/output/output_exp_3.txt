@@ -1,0 +1,17 @@
+EXPERIMENT 3 - LINEAR REGRESSION OUTPUT
+=======================================================
+
+Slope (β1): 1.1524975829842095
+Intercept (β0): -4.261669352239774
+R² Score: 0.9583635531071921
+R² Percentage: 95.83635531071921 %
+Mean Absolute Error: 0.20526802019551038
+Mean Squared Error: 0.06837629834174448
+
+CGPA: 8.5 -> Predicted Placement Package: 5.534560103126007 LPA
+
+CGPA: 7.0 -> Predicted Package: 3.81 LPA
+CGPA: 8.0 -> Predicted Package: 4.96 LPA
+CGPA: 8.5 -> Predicted Package: 5.53 LPA
+CGPA: 9.0 -> Predicted Package: 6.11 LPA
+CGPA: 9.5 -> Predicted Package: 6.69 LPA

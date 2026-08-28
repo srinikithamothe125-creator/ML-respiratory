@@ -1,0 +1,38 @@
+EXPERIMENT 4 - TITANIC LOGISTIC REGRESSION OUTPUT
+=======================================================
+
+Dataset shape: (891, 15)
+
+Columns:
+['survived', 'pclass', 'sex', 'age', 'sibsp', 'parch', 'fare', 'embarked', 'class', 'who', 'adult_male', 'deck', 'embark_town', 'alive', 'alone']
+
+Missing values:
+survived         0
+pclass           0
+sex              0
+age            177
+sibsp            0
+parch            0
+fare             0
+embarked         2
+class            0
+who              0
+adult_male       0
+deck           688
+embark_town      2
+alive            0
+alone            0
+
+Preprocessed feature missing values:
+pclass        0
+age           0
+sibsp         0
+parch         0
+fare          0
+sex_male      0
+embarked_Q    0
+embarked_S    0
+
+Model training completed
+First 20 predictions:
+[0 0 0 0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1]

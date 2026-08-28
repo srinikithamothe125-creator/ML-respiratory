@@ -1,0 +1,49 @@
+EXPERIMENT 2 - EDA OUTPUT
+=======================================================
+
+Dataset shape: (50000, 32)
+
+Missing values:
+StudentID                0
+Gender                   0
+City                     0
+CollegeTier              0
+Stream                   0
+Specialisation           0
+Hostel                   0
+HistoryOfBacklogs        0
+SGPA_Sem1                0
+SGPA_Sem2                0
+SGPA_Sem3                0
+SGPA_Sem4                0
+SGPA_Sem5                0
+SGPA_Sem6                0
+SGPA_Sem7                0
+SGPA_Sem8                0
+CGPA                     0
+AttendancePercent        0
+Internships              0
+Projects                 0
+Workshops             4488
+Certifications           0
+Publications             0
+AptitudeTestScore     4029
+SoftSkillsRating      3526
+CodingTestScore       2976
+MockInterviewScore    4957
+ExtraCurricular          0
+CGPA_Tier                0
+PlacementStatus          0
+IsAnomaly                0
+Salary Package           0
+
+Placement rate by Stream using the notebook's exact Placed_Flag expression:
+Stream
+CS            0.0
+Civil         0.0
+ECE           0.0
+EE            0.0
+IT            0.0
+Mechanical    0.0
+
+Generated charts are in this folder.
